@@ -1,0 +1,22 @@
+C:\Users\dhany\Desktop\NET\IMC\IMC\IMC\bin\Debug\IMC.exe.config
+C:\Users\dhany\Desktop\NET\IMC\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\dhany\Desktop\NET\IMC\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\dhany\Desktop\NET\IMC\IMC\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\dhany\Desktop\NET\IMC\IMC\IMC\obj\Debug\IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhany\Desktop\NET\IMC\IMC\IMC\obj\Debug\IMC.Properties.Resources.resources
+C:\Users\dhany\Desktop\NET\IMC\IMC\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\dhany\Desktop\NET\IMC\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\dhany\Desktop\NET\IMC\IMC\IMC\obj\Debug\IMC.exe
+C:\Users\dhany\Desktop\NET\IMC\IMC\IMC\obj\Debug\IMC.pdb
+C:\Users\dhany\Desktop\NET\IMC\IMC\IMC\obj\Debug\IMC.IMC.resources
+C:\Users\dhany\Desktop\IMC Adulto Mayor\IMC\IMC\bin\Debug\IMC.exe.config
+C:\Users\dhany\Desktop\IMC Adulto Mayor\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\dhany\Desktop\IMC Adulto Mayor\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\dhany\Desktop\IMC Adulto Mayor\IMC\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\dhany\Desktop\IMC Adulto Mayor\IMC\IMC\obj\Debug\IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhany\Desktop\IMC Adulto Mayor\IMC\IMC\obj\Debug\IMC.IMC.resources
+C:\Users\dhany\Desktop\IMC Adulto Mayor\IMC\IMC\obj\Debug\IMC.Properties.Resources.resources
+C:\Users\dhany\Desktop\IMC Adulto Mayor\IMC\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\dhany\Desktop\IMC Adulto Mayor\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\dhany\Desktop\IMC Adulto Mayor\IMC\IMC\obj\Debug\IMC.exe
+C:\Users\dhany\Desktop\IMC Adulto Mayor\IMC\IMC\obj\Debug\IMC.pdb
